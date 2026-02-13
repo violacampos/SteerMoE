@@ -1,0 +1,16 @@
+[project]
+name = "steermoe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.5.0",
+    "ipywidgets==8.1.7",
+    "matplotlib>=3.10.8",
+    "notebook==7.4.5",
+    "pandas==2.3.2",
+    "python-dotenv==1.1.1",
+    "seaborn>=0.13.2",
+    "vllm==0.10.1.1",
+]
